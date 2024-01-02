@@ -2,7 +2,9 @@
 
 Welcome to the Snake Game JavaScript project! This mini project serves as a practical exercise to enhance  JavaScript skills. The game features various functionalities and responsive behavior. Feel free to explore, modify, and learn from the code.
 ---
+[Live Link](https://snake-xenzia-app.netlify.app/)
 
+---
 ![Demo Image](./Snake-Xenzia.png)
 ## Project Structure 📁
 
